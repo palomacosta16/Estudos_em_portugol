@@ -1,0 +1,29 @@
+algoritmo semNome;
+// Síntese
+//  Objetivo:  
+//  Entrada :
+//  Saída   :
+
+
+principal
+	// Declarações
+	// x=valor da mercadoria, y=valor a vista, z=desconto
+	// ao digitar o valor do desconto no console escrever 0.9 ao invés de 10%
+
+	real x,valormercadoria, y, avista, z,desconto, valor;
+
+	// Instruções
+	escreva ("valor da mercadoria:");
+	leia (x);
+	
+	escreva ("valor do desconto:");
+	leia (z) ;
+
+	x = x;
+	y = x * 0.9;
+
+	escreva ("pagamento a vista: ", y );
+
+	
+
+fimPrincipal
