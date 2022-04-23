@@ -1,0 +1,21 @@
+algoritmo celsius e fahrenheit;
+// Síntese
+//  Objetivo:  
+//  Entrada :
+//  Saída   :
+
+
+principal
+	// Declarações
+	inteiro celsius, fahrenheit, valor;
+	
+	// Instruções
+
+	escreva("Graus Celsius:");
+	leia(celsius);
+
+	valor = ((celsius * 9) / 5) + 32;
+
+	escreva ("Grau Fahrenheit:", valor);
+
+fimPrincipal
