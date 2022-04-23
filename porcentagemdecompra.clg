@@ -1,0 +1,21 @@
+algoritmo porcentagem de compra;
+// Síntese
+//  Objetivo:  
+//  Entrada :
+//  Saída   :
+
+
+principal
+	// Declarações
+	real precodecompra, media;
+
+	// Instruções
+	
+	escreva ("digite o preço de compra do produto: ");
+	leia(precodecompra);
+
+	media = precodecompra / 100 * 30; 
+	
+	escreva ("preço de venda ideal do produto para obter 30% de lucro:", media);
+
+fimPrincipal

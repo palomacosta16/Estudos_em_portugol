@@ -1,0 +1,25 @@
+algoritmo atividade1;
+// Síntese
+//  Objetivo: calcular media do estudante
+//  Entrada : 3 notas
+//  Saída   : média
+
+
+principal
+	// Declarações
+	real nota1, nota2, nota3, media;
+	
+	// Instruções
+	
+	escreva ("Digite nota 1:");
+	leia(nota1) ;
+	escreva ("Digite nota 2:");
+	leia(nota2) ;
+	escreva ("Digite nota 3:");
+	leia(nota3) ;
+	
+	media = (nota1 + nota2 + nota3) / 2;
+
+	escreva("Sua média é ", media);
+
+fimPrincipal

@@ -1,0 +1,21 @@
+algoritmo salários;
+// Síntese
+//  Objetivo:  
+//  Entrada :
+//  Saída   :
+
+
+principal
+	// Declarações
+	real salariobruto, salarioliquido, x, y;
+
+	// Instruções
+	escreva("Salário Bruto:"); 
+	leia(salariobruto);
+
+	x = salariobruto * 0.9;
+	y = x * 0.95;
+	
+	escreva("Salário líquido:", y); 
+
+fimPrincipal

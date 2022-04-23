@@ -1,0 +1,24 @@
+algoritmo mediaestudantes;
+// Síntese
+//  Objetivo:  calcular a média de um estudante
+//  Entrada : 2 notas
+//  Saída   : média
+
+
+principal
+	// Declarações
+	real nota1, nota2, media;
+
+	// Instruções
+	escreva("digite a nota 1:" );
+	leia (nota1);
+	escreva("digite a nota 2:" );
+	leia (nota2);
+
+	media = (nota1 + nota2) / 2;
+
+	escreva("Sua média é", media);
+	
+	
+
+fimPrincipal

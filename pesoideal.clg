@@ -1,0 +1,27 @@
+algoritmo Peso Ideal;
+// Síntese
+//  Objetivo:  
+//  Entrada :
+//  Saída   :
+
+
+principal
+	// Declarações
+	// ao colocar peso e altura no console utilize o simbolo . (ponto) e não , (vírgula).
+	real peso, altura, media;
+
+	// Instruções
+	
+    escreva ("digite seu peso:");
+	leia (peso);
+	
+	escreva("digite sua altura:") ;
+	leia(altura);
+	
+	media = (altura - 1.10) * 100;
+
+	escreva ("Seu peso ideal é:" , media);
+
+
+
+fimPrincipal

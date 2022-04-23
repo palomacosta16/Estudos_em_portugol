@@ -1,0 +1,23 @@
+algoritmo imc;
+// Síntese
+//  Objetivo:  
+//  Entrada :
+//  Saída   :
+
+
+principal
+	// Declarações
+
+	real peso, altura, valor;
+
+	// Instruções
+	 escreva ("digite seu peso:");
+	leia (peso);
+	
+	escreva("digite sua altura:") ;
+	leia (altura);
+	
+	valor = peso / (altura * altura);
+	escreva ("Seu Índice de Massa Corporal: " , valor);
+
+fimPrincipal
