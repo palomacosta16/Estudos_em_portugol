@@ -1,6 +1,9 @@
 algoritmo imc;
 // Síntese
-//  Objetivo:  
+Atividade: Faça um algoritmo para obter o peso de uma pessoa e informar ao usuário o valor
+do seu IMC (Índice de Massa Corporal). Sabe-se que IMC é dado pela divisão do peso
+pela altura ao quadrado.
+//  Objetivo:  Calcular IMC.
 //  Entrada :
 //  Saída   :
 
