@@ -1,6 +1,9 @@
-algoritmo atividade1;
+algoritmo medias;
 // Síntese
-//  Objetivo: calcular media do estudante
+Atividade: Faça um algoritmo que leia três notas de um aluno, calcule e imprima a média do
+aluno.
+
+//  Objetivo: calcular media de 3 notas do estudante
 //  Entrada : 3 notas
 //  Saída   : média
 
