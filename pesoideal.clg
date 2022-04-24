@@ -1,5 +1,7 @@
 algoritmo Peso Ideal;
-// Síntese
+// Síntese 
+Atividade: Faça um algoritmo que receba a altura (metros) de uma pessoa e imprima seu peso
+ideal. 
 //  Objetivo:  
 //  Entrada :
 //  Saída   :
