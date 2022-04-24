@@ -1,6 +1,13 @@
 algoritmo salários;
-// Síntese
-//  Objetivo:  
+
+// Síntese 
+Atividade: Desconta-se inicialmente 10% do salário bruto do
+trabalhador como contribuição à previdência social. Após esse desconto, há outro
+desconto de 5% sobre o valor restante do salário bruto a título de um determinado
+imposto. Faça um algoritmo que leia o salário bruto de um cidadão e apresente o seu
+salário líquido.
+
+//  Objetivo: Calcular descontos no salário de um trabalhador e indicar o valor do Salário Líquido
 //  Entrada :
 //  Saída   :
 
