@@ -1,7 +1,10 @@
-algoritmo celsius e fahrenheit;
+algoritmo celsius_e_fahrenheit;
 // Síntese
-//  Objetivo:  
-//  Entrada :
+Atividade: Faça um algoritmo que leia uma temperatura em graus Celsius e a transforme em
+Farenheit. 
+//  Objetivo:  algoritmo que leia uma temperatura em graus Celsius e a transforme em
+Farenheit.
+//  Entrada : 
 //  Saída   :
 
 
