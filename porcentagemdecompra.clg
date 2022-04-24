@@ -1,6 +1,8 @@
 algoritmo porcentagem de compra;
 // Síntese
-//  Objetivo:  
+Atividade:  Faça um algoritmo que leia o preço de compra de uma mercadoria, calcule e
+imprima o seu preço de venda para que possa ser obtido um lucro de 30%.
+//  Objetivo: Obeter porcentagem de lucro de 30%
 //  Entrada :
 //  Saída   :
 
