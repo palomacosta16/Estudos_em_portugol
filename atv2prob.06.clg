@@ -1,0 +1,33 @@
+algoritmo atv2problema06;
+// Síntese
+//  Objetivo:  Verificar o peso de uma pessoa
+//  Entrada : peso e altura
+//  Saída   : situação da pessoa (gordo, magro ou peso ideal)
+
+
+principal
+	// Declarações
+	real peso, altura, pesoIdeal;
+
+	// Instruções
+	escreva ("Digite seu peso: ");
+	leia (peso) ;
+	escreva ("Digite sua altura: ");
+	leia (altura) ;
+	//Processamento
+	//Peso ideal = (altura - 1,10)*100.
+	pesoIdeal = (altura-1.1)*100;
+	
+
+	//Saída
+	se (peso > pesoIdeal) entao
+		escreva ("Gordo (a)");
+	senao
+		se (peso < pesoIdeal) entao
+			escreva ("Magro (a)");
+		senao
+			escreva ("Peso Ideal");
+		fimSe
+	fimSe
+
+fimPrincipal
